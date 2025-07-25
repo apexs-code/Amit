@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./frontend/src/image/readme.png" alt="Project Banner" width="full"/>
+  <img src="/readme.png" alt="Project Banner" width="full"/>
 </p>
 
 # ✨ Gurukul Web App
